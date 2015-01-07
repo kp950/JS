@@ -1,3 +1,6 @@
+//this comment is a change I made to the doc to see what GitHub does to it
+
+
 function StaffMember(name,discountPercent){
 this.name = name;
 this.discountPercent = discountPercent;
